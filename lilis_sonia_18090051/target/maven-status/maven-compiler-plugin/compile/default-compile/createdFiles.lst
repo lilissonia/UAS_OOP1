@@ -1,0 +1,6 @@
+data_mahasiswa\lilis_sonia_18090051\entity\DataMhs.class
+data_mahasiswa\lilis_sonia_18090051\controller\WebController.class
+data_mahasiswa\lilis_sonia_18090051\services\DataMhsService.class
+data_mahasiswa\lilis_sonia_18090051\repo\DataMhsRepo.class
+data_mahasiswa\lilis_sonia_18090051\LilisSonia18090051Application.class
+data_mahasiswa\lilis_sonia_18090051\model\DataMhsModel.class
